@@ -6,7 +6,7 @@ gemspec
 
 eval_gemfile "Gemfile.devtools"
 
-gem "faker", "~> 2.8"
+gem "faker"
 
 gem "rspec", "~> 3.0"
 
